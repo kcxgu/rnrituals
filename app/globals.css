@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+/* 
+#d8bfb6
+#b4cce0
+#fff4f0
+#2d2d2d 
+#fffff
+*/
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
